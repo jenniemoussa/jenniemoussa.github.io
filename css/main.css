@@ -359,4 +359,7 @@ h1:first-child {
     height: auto;
     width: 100%;
   }
+  .download-button {
+    margin-bottom: 8px;
+  }
 }
