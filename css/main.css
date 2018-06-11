@@ -342,6 +342,9 @@ h1:first-child {
 .browse-button:hover a {
   color: #FFFFFF;
 }
+.row .work-sample {
+  margin-right: 10px !important;
+}
 
 /* MEDIA QUERIES */
 @media all and (max-width: 991px) {
